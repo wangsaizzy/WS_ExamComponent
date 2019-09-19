@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WS_ExamComponent"
-  spec.version      = "0.0.2"
-  spec.summary      = "对答题类功能提供组件化解决方案"
+  spec.version      = "0.0.4"
+  spec.summary      = "对答题类功能提供组件化解决方案,支持单选、多选、材料（文字、图片、音视频等）、简答、复合型等"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
