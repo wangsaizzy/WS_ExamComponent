@@ -18,6 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
  @return 为空返回yes
  */
 + (BOOL)isBlankString:(NSString *)aStr;
+//
 
 @end
 
